@@ -1,0 +1,1 @@
+cmd_/home/tank/flowlet/version2/openvswitch-2.7.0/datapath/linux/openvswitch.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/tank/flowlet/version2/openvswitch-2.7.0/datapath/linux/openvswitch.ko /home/tank/flowlet/version2/openvswitch-2.7.0/datapath/linux/openvswitch.o /home/tank/flowlet/version2/openvswitch-2.7.0/datapath/linux/openvswitch.mod.o
